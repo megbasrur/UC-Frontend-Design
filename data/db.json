@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": "9c40",
+      "title": "Interstellar",
+      "watched": false
+    },
+    {
+      "id": "a988",
+      "title": "The Matrix",
+      "watched": false
+    },
+    {
+      "id": "1547",
+      "title": "Mission Impossible",
+      "watched": false
+    }
+  ]
+}
